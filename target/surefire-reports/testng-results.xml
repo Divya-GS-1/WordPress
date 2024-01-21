@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-21T10:20:15 IST" name="SmokeSuite" finished-at="2024-01-21T10:20:50 IST" duration-ms="35141">
+    <groups>
+    </groups>
+    <test started-at="2024-01-21T10:20:15 IST" name="Chrome" finished-at="2024-01-21T10:20:50 IST" duration-ms="35141">
+      <class name="com.WordPress1.testCases.TC_VerifyWPHomePage">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.WordPress1.testCases.TC_VerifyWPHomePage@272113c4]" started-at="2024-01-21T10:20:15 IST" name="setUp" finished-at="2024-01-21T10:20:24 IST" duration-ms="8476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyHomePage()[pri:0, instance:com.WordPress1.testCases.TC_VerifyWPHomePage@272113c4]" started-at="2024-01-21T10:20:24 IST" name="VerifyHomePage" finished-at="2024-01-21T10:20:31 IST" duration-ms="7544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.WordPress1.testCases.TC_VerifyWPHomePage@272113c4]" started-at="2024-01-21T10:20:31 IST" name="tearDown" finished-at="2024-01-21T10:20:32 IST" duration-ms="324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyHomePage status=SUCCESS method=TC_VerifyWPHomePage.VerifyHomePage()[pri:0, instance:com.WordPress1.testCases.TC_VerifyWPHomePage@272113c4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WordPress1.testCases.TC_VerifyWPHomePage -->
+      <class name="com.WordPress1.testCases.TC_VerifyLogin_001">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.WordPress1.testCases.TC_VerifyLogin_001@53fe15ff]" started-at="2024-01-21T10:20:32 IST" name="setUp" finished-at="2024-01-21T10:20:37 IST" duration-ms="5386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLogin()[pri:0, instance:com.WordPress1.testCases.TC_VerifyLogin_001@53fe15ff]" started-at="2024-01-21T10:20:37 IST" name="VerifyLogin" finished-at="2024-01-21T10:20:48 IST" duration-ms="11105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.WordPress1.testCases.TC_VerifyLogin_001@53fe15ff]" started-at="2024-01-21T10:20:48 IST" name="tearDown" finished-at="2024-01-21T10:20:50 IST" duration-ms="1872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyLogin status=SUCCESS method=TC_VerifyLogin_001.VerifyLogin()[pri:0, instance:com.WordPress1.testCases.TC_VerifyLogin_001@53fe15ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WordPress1.testCases.TC_VerifyLogin_001 -->
+    </test> <!-- Chrome -->
+  </suite> <!-- SmokeSuite -->
+</testng-results>

@@ -1,0 +1,8 @@
+com\WordPress1\testCases\TC_VerifyWPHomePage.class
+com\WordPress1\Library\Reporting.class
+com\WordPress1\testCases\BaseClass.class
+com\WordPress1\testCases\TC_VerifyLogin_001.class
+com\WordPress1\pageObjects\WP_HomePage.class
+com\WordPress1\Library\Utility.class
+com\WordPress1\pageObjects\LoginPage.class
+com\WordPress1\Library\ReadConfig.class
