@@ -64,7 +64,7 @@ This Repository provides the basics about Hybrid framework to start the UI autom
     </clipboard-copy>
   </div></div>
 <ul dir="auto">
-<li>Run the TestNG.xml file. You can even run as mvn test which will trigger the TestNG.xml</li>
+<li>Run the SmokeSuite.xml file. You can even run as mvn test which will trigger the SmokeSuite.xml</li>
 </ul>
 <hr>
 
